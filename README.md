@@ -41,3 +41,14 @@ So, now, in addition to the 29 features we had earlier, we now have 70 new featu
 ### Correlation Heatmap
 ![corr_hmap_new](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/corr_heatmap_new.png)
 
+### Class Imbalance
+![imb](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/imb.JPG)
+
+## Results
+Model : Random Forest
+
+### ROC Curve
+![roc](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/rf_roc1.png)
+
+ROC-AUC = 0.931
+Accuracy = 93.3%
