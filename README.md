@@ -8,3 +8,5 @@ The data required was obtained from aNANt database by IISc, Bangalore.
 ![Features](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/features.JPG)
 
 ![Features distribution](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/feature_plots.png)
+
+![corr_hmap](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/Corr_Heatmap.jpg)
