@@ -33,6 +33,9 @@ For each of the 5 atoms in the molecule we add the following properties to the m
 11.	Boiling point
 12.	Number of isotopes
 13.	Number of shells
-14.	Specific heat
+14.	Specific heat<br/>
 So, now, in addition to the 29 features we had earlier, we now have 70 new features (14 properties x 5 atoms per molecule). Therefore, a total of 99 features.
+
+### Correlation Heatmap
+![corr_hmap_new](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/corr_heatmap_new.png)
 
