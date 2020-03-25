@@ -6,4 +6,5 @@ The data required was obtained from aNANt database by IISc, Bangalore.
 
 ## Data Visualization & Preprocessing
 ![Features](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/features.JPG)
-![Features distribution](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/features.JPGhttps://github.com/UtsavMurarka/MXene-machine-learning/blob/master/feature_plots.png)
+
+![Features distribution](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/feature_plots.png)
