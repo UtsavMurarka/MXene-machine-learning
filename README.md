@@ -54,6 +54,7 @@ So, now, in addition to the 29 features we had earlier, we now have 85 new featu
 ![roc](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/RF_ROC.JPG)
 
 ROC-AUC = 0.949
+
 Accuracy = 93.2%
 
 
@@ -63,4 +64,5 @@ Accuracy = 93.2%
 ![roc](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/NN_ROC.JPG)
 
 ROC-AUC = 0.962
+
 Accuracy = 93.67%
