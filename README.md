@@ -48,10 +48,19 @@ So, now, in addition to the 29 features we had earlier, we now have 85 new featu
 ![imb](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/imb.JPG)
 
 ## Results
-Model : Random Forest
+Model : Random Forest (On oversampled data)
 
 ### ROC Curve
-![roc](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/rf_roc1.png)
+![roc](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/RF_ROC.JPG)
 
-ROC-AUC = 0.931
-Accuracy = 93.3%
+ROC-AUC = 0.949
+Accuracy = 93.2%
+
+
+Model : Neural Network (Cost-sensitive)
+
+### ROC Curve
+![roc](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/NN_ROC.JPG)
+
+ROC-AUC = 0.962
+Accuracy = 93.67%
