@@ -33,8 +33,11 @@ For each of the 5 atoms in the molecule we add the following properties to the m
 11.	Boiling point
 12.	Number of isotopes
 13.	Number of shells
-14.	Specific heat<br/>
-So, now, in addition to the 29 features we had earlier, we now have 70 new features (14 properties x 5 atoms per molecule). Therefore, a total of 99 features.
+14.	Specific heat
+15. Mass Magnetic Susceptibility
+16. Molar Magnetic Susceptibility
+17. Thermal Conductivity<br/>
+So, now, in addition to the 29 features we had earlier, we now have 85 new features (17 properties x 5 atoms per molecule). Therefore, a total of 131 features.
 
 ### Distribution of individual features (NEW)
 ![feature_dist](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/feature_dist_99.png)
