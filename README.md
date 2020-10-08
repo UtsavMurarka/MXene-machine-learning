@@ -39,7 +39,7 @@ For each of the 5 atoms in the molecule we add the following properties to the m
 17. Thermal Conductivity<br/>
 So, now, in addition to the 29 features we had earlier, we now have 85 new features (17 properties x 5 atoms per molecule). Therefore, a total of 131 features.
 
-### Distribution of individual features (NEW)
+### Distribution of individual features (After adding new features)
 ![feature_dist](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/img/feature_dist_99.png)
 ### Correlation Heatmap
 ![corr_hmap_new](https://github.com/UtsavMurarka/MXene-machine-learning/blob/master/img/corr_heatmap_new.png)
